@@ -5,6 +5,6 @@ A simple timer to help you manage study sessions with much needed breaks!
 
 A Thinkful assignment testing our newfound understanding of React. The main takeaway from this assignment was breaking down big problems into smaller, more manageable problems. React makes this easy with components!
 
-##Link
+## Link
 ----
 (https://pomodoro-one-wheat.vercel.app/)
