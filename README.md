@@ -10,4 +10,5 @@ https://pomodoro-one-wheat.vercel.app/
 
 ## Technology
 
-Built with React  Styled with Bootstrap 4
+Built with React  
+Styled with Bootstrap 4
