@@ -7,4 +7,4 @@ A Thinkful assignment testing our newfound understanding of React. The main take
 
 ## Link
 
-(https://pomodoro-one-wheat.vercel.app/)
+https://pomodoro-one-wheat.vercel.app/ - automatic!
