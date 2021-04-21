@@ -10,7 +10,7 @@ A Thinkful assignment testing our newfound understanding of React. The timer swi
 https://pomodoro-one-wheat.vercel.app/
 
 
-##Features
+## Features
 
 5-60 minute adjustable focus time  
 1-15 minute adjustable break time  
