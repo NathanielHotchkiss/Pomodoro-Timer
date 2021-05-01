@@ -15,8 +15,8 @@ https://pomodoro-one-wheat.vercel.app/
 5-60 minute adjustable focus time  
 1-15 minute adjustable break time  
 Countdown Timer  
-Progress meter
-Pause 
+Progress meter  
+Play/Pause
 
 ## Technology
 
