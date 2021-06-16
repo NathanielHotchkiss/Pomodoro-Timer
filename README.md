@@ -22,5 +22,5 @@ https://pomodoro-one-wheat.vercel.app/
 ## Technology
 
 *  React
-  *  useState   
+   *  useState   
 *  Styled with Bootstrap 4
