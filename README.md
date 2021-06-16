@@ -1,7 +1,5 @@
 # Pomodoro Timer
 
-## Uses
-
 An application featuring a timer that switches between focus and break time, and can be customized to suit your needs. No need to stare at the countdown, a bell will chime when it's time to switch. 
 
 ![A screen shot of my Pomodoro Timer App](/public/images/Pomodoro.png "Pomodoro Timer")
