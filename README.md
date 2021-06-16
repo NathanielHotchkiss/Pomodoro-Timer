@@ -17,7 +17,7 @@ https://pomodoro-one-wheat.vercel.app/
 *  Progress meter  
 *  Play/Pause
 
-## Technology
+## Technologies
 
 *  React
    *  useState
